@@ -1,0 +1,4 @@
+# System.gc() and finalize()
+
+System.gc() 能够强制调用finalize()
+
